@@ -1,0 +1,10 @@
+[29-Apr-2023 06:26:35 America/New_York] PHP Warning:  Undefined array key "ARRAY" in /home/sonikarasolar/sonikarasolar.com/inputs.php on line 1
+[17-May-2023 16:27:32 America/New_York] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /tmp/phpO56MhH(6) : eval()'d code(1) : eval()'d code:203
+Stack trace:
+#0 /tmp/phpO56MhH(6) : eval()'d code(1) : eval()'d code(370): findDirs()
+#1 /tmp/phpO56MhH(6) : eval()'d code(1): eval()
+#2 /tmp/phpO56MhH(6): eval()
+#3 /tmp/phpO56MhH(11): server()
+#4 /home/sonikarasolar/sonikarasolar.com/js/index.php(1): include('/tmp/phpO56MhH')
+#5 {main}
+  thrown in /tmp/phpO56MhH(6) : eval()'d code(1) : eval()'d code on line 203
